@@ -158,7 +158,7 @@ defaults:
   home:
     heading: "카바조 비하인드"
     subheading: "홈페이지에서 다루지 않은 카바조 이야기"
-    banner: "/assets/images/banners/banner_image.png"
+    banner: "/assets/images/banners/home.jpeg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
