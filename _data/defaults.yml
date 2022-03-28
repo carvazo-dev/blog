@@ -1,4 +1,4 @@
 home:
   heading: "카바조 비하인드"
   subheading: "홈페이지에서 다루지 못한 카바조 이야기"
-  banner: "/assets/images/banners/bg.jpg"
+  banner: ![Image Alt 텍스트]({{site.url}}/assets/img/bg.jpg )
