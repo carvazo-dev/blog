@@ -156,7 +156,7 @@ yat:
 Page default value
 defaults:
   home:
-    heading: "카바조 비하인드"
+    heading: "카바조 스토리"
     subheading: "홈페이지에서 다루지 않은 카바조 이야기"
     banner: "/assets/images/banners/home.jpeg"
 
